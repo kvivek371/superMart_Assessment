@@ -1,0 +1,133 @@
+body{
+    background-color: grey;
+}
+.welcomeStore{
+    width: 400px;
+    height: 100px;
+    padding: 45px 40px;
+    background-color: white;
+    border: 10px red solid;
+    color: red;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 1px 1px rebeccapurple;
+    box-shadow: 10px 10px purple;
+    margin-left: 550px;
+    text-align: center;
+}
+
+.detailBox{
+    display: flex;
+    justify-content: space-between;
+    border: 10px green solid;  
+    margin: 2px;  
+}
+
+.detailBoxFlex{
+    border: 10px red solid;
+    color: black;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+    text-shadow: 2px 2px rebeccapurple;
+    box-shadow: 10px 10px purple;
+    background-color: white;
+    text-align: center;
+}
+
+.item1{
+    width: 300px;
+    height: 270px;
+    padding: 50px 30px;
+    margin: 50px 0px 100px 20px;
+}
+
+.item2{
+    width: 300px;
+    height: 270px;
+    padding: 50px 30px;
+    margin: 50px 0px 100px 20px;
+}
+
+.item3{
+    background-color: yellowgreen;
+    width: 500px;
+    height: 50px;
+    padding: 10px 10px 5px 10px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-between;
+    position: fixed;
+    top: 500px;
+    right: 550px;
+}
+
+.item4{
+    width: 300px;
+    height: 270px;
+    padding: 50px 30px;
+    margin: 100px 20px 50px 20px;
+}
+
+.item5{
+    width: 300px;
+    height: 270px;
+    padding: 50px 30px;   
+    margin: 100px 20px 50px 20px;
+}
+
+.itemTable{
+    width: 50vw;
+    border: 10px purple solid;
+    color: black;
+    border-radius: 10px;
+    background-color: green;
+    text-align: center;
+    margin: 30px 350px 30px 400px;
+}
+
+.welcomeHead{
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 2px 2px;
+    margin: 20px;
+}
+
+.flexItemCont{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: green;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.fruitList{
+    width: 400px;
+    height: 250px;
+    border: 1px;
+    border-color: aqua;
+    border-style: solid;
+    background-color: darkkhaki;
+}
+
+.vegetableList{
+    width: 400px;
+    height: 250px;
+    border: 1px;
+    border-color: aqua;
+    border-style: solid;
+    background-color: darkkhaki;
+}
+
+.otherList{
+    background-color: green;
+    font-style: italic;
+    font-size: 20px;
+    border: 1px;
+    border-color: aqua;
+    border-style: solid;
+    background-color: darkkhaki;
+    margin: 18px;
+}
