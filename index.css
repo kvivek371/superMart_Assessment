@@ -59,9 +59,6 @@ body{
     display: flex;
     font-size: 20px;
     justify-content: space-between;
-    position: fixed;
-    top: 500px;
-    right: 450px;
 }
 
 .item4{
